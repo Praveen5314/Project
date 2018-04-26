@@ -8,6 +8,6 @@ public class LoginPage {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Elcot\\eclipse-workspace\\test\\Driver\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.facebook.com/");	
-		System.out.println("facebook");
+		
 	}
 }
